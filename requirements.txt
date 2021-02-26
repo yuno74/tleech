@@ -1,0 +1,9 @@
+aiohttp
+aria2p
+hachoir
+Pillow
+pyrogram
+tgcrypto
+youtube_dl==2020.11.12
+hurry.filesize
+telethon==1.16.4
